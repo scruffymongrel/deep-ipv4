@@ -1,0 +1,15 @@
+{
+  "author": "Andy Dennis",
+  "bugs": {
+	  "url": "https://github.com/scruffymongrel/deep-ipv4/issues"
+	},
+  "description": "Return the local machine's first external IPv4 address.",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "deep-ipv4",
+  "repository": {
+	  "type": "git",
+	  "url": "https://github.com/scruffymongrel/deep-ipv4"
+	},
+  "version": "1.0.0"
+}
